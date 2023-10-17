@@ -16,6 +16,7 @@
 //
 // Execute `rustlings hint quiz3` or use the `hint` watch subcommand for a hint.
 
+// 搞不懂这题要做什么
 // I AM DONE
 
 pub struct ReportCard {
